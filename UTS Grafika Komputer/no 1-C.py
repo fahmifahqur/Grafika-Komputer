@@ -4,6 +4,7 @@ from OpenGL.GLUT import *
 
 # Fahmi Fahqur Rozi
 # 20051397060
+# nomer 1 C
 
 from OpenGL.GL import *
 from OpenGL.GLU import *
